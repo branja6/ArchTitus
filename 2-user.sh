@@ -39,10 +39,15 @@ PKGS=(
 'ocs-url' # install packages from websites
 'sddm-nordic-theme-git'
 'snapper-gui-git'
+'spotify' # a proprietary music streaming service
+'slack-desktop'
+'signal-desktop'
 'ttf-droid'
 'ttf-hack'
 'ttf-meslo' # Nerdfont package
 'ttf-roboto'
+'telegram-desktop'
+'viber'
 'zoom' # video conferences
 'snap-pac'
 )
